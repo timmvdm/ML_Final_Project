@@ -16,3 +16,5 @@
 # Optional: Ignore system files (common)
 .DS_Store
 Thumbs.db
+
+*.pkl
